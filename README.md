@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @lopez-hector
+- 👋 Hi, I’m Hector Lopez Hernandez, PhD
+- 👨🏽‍🎓 PhD in Mechanical Engineering
 - 👀 I’m interested in machine learning and materials science.
-- 🌱 I’m currently learning about deep learning.
+- 🤔 Fascinated by the application of ML techniques to the analysis of scientific data and assays.
 - 📫 hlopezhernandez01@gmail.com
 
 <!---
