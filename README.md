@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Hector Lopez Hernandez, PhD
 - 👨🏽‍🎓 PhD in Mechanical Engineering
-- 👀 Interested in the application of ML techniques to the analysis of scientific data and assays.
-- 🧑🏽‍🔬 Expertise in in biomaterials, drug-delivery, rheology, and machine learning.
+- 👀 Interested in computer vision and NLP.
 - 📫 hlopezhernandez01@gmail.com
 
 <!---
