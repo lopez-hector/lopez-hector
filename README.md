@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hector Lopez Hernandez, PhD
-- 👨🏽‍🎓 PhD in Mechanical Engineering
 - 👀 Interested in computer vision and NLP.
+- Chat with your transaction histroy: www.easyfi.us
 - 📫 hlopezhernandez01@gmail.com
 
 <!---
