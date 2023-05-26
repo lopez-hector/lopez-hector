@@ -2,6 +2,7 @@
 - 👀 Interested in computer vision and NLP.
 - Chat with your transaction histroy: www.easyfi.us
 - Accelerate your literature reviews: https://github.com/lopez-hector/pub_find
+- 👨🏻‍🏫 [Google Scholar](https://scholar.google.com/citations?user=XYubcwcAAAAJ&hl=en&authuser=1)
 - 📫 hlopezhernandez01@gmail.com
 
 <!---
